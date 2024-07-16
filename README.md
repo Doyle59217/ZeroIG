@@ -45,6 +45,5 @@ The Varied Indoor Luminance & Nightscapes Collection (VILNC Dataset) is a meticu
   pages={3015--3024},
   year={2024}
 }
-
 ```
 
